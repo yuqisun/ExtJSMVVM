@@ -3,7 +3,7 @@ Ext.define('MVVM.view.Detail', {
 	xtype : 'mvvm-DetailView',
 
 	requires : [
-	// commented out because Fiddle barfs on the Ext.Loader
+	// commented out because Fiddle barfs on the Ext.Loader 
 	'MVVM.view.DetailViewModel' ],
 
 	title : 'Detail Panel',
